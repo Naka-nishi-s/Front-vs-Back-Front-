@@ -1,4 +1,4 @@
-データを読み込んで表示する処理をLaravel単体とLaravel + Reactで実装し、差を比べました。
+データを読み込んで表示する処理をLaravel単体とLaravel + Reactで実装し、差を比べました。</br>
 こちらはLaravel + React 版です。
 
 Laravel単体はこちら↓
